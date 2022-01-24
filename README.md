@@ -1,5 +1,98 @@
-### Hi there 👋
+# Hey there! I'm Diego, excited to see you here 😎👋
 
+```
+If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+― Edsger W. Dijkstra
+```
+
+Let's connect!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Nieto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-nieto/)](https://www.linkedin.com/in/diego-nieto/)
+[![Instagram Badge](https://img.shields.io/badge/-Diego%20Nieto-lightgrey?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/____diegonieto____/)](https://instagram.com/____diegonieto____)
+
+<details>
+  <summary>Click to expand...</summary>
+  
+  ## Text
+
+  Normal text
+
+  Some **bold** text, bold **with multiple words**
+
+  some *Italic text*
+
+  and some ~~Strikethrough~~ text that isn't working
+
+  ## Links
+
+  This is a [link](https://github.com/diego-nieto-pena/) to my github profile
+
+  ## Images
+
+  My profile picture image ![github profile](https://avatars.githubusercontent.com/u/9864280?v=4)
+</details>
+
+<details>
+  <summary>Click to expand ...</summary>
+  
+  ## Lists
+
+  ### Unordered
+  - Item 1
+  - Item 2
+  - Item 3
+
+  ### ordered
+  1. First
+  2. Second
+  3. Third
+
+  ### Self ordered
+  1. seventh
+  1. Third
+  1. First
+
+  ### Nested
+  - Item 1
+    - Item 1.1
+    - Item 1.2
+  - Item 2
+    - Item 2.1
+  - Item 3
+
+  ### Checked
+  - [ ] Item 1
+  - [ ] Item 2
+  - [X] Item 3
+
+  ## Tables
+
+  | Column 1 | Column 2 | Column 3 |
+  | :--- | :---: | ---: |
+  | Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |
+  | Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |
+  | Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |
+
+  ## Code
+
+  ### Code line
+  A code line `Diego diego = new Diego();` code inside some text
+
+  ### Code block
+  ```
+  int counter = 0;
+
+  while(counter == 0) {
+    System.out.println("Forever");
+  }
+  ```
+</details>
+
+## Quotes
+
+> This is a quoted text
+
+I agree on that!
 <!--
 **diego-nieto-pena/diego-nieto-pena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
