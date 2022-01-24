@@ -5,12 +5,14 @@ If debugging is the process of removing software bugs, then programming must be 
 ― Edsger W. Dijkstra
 ```
 
-Let's connect!
+### Let's connect!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Diego%20Nieto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-nieto/)](https://www.linkedin.com/in/diego-nieto/)
 [![Instagram Badge](https://img.shields.io/badge/-Diego%20Nieto-lightgrey?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/____diegonieto____/)](https://instagram.com/____diegonieto____)
 
-<details>
+![binary](https://github.com/diego-nieto-pena/diego-nieto-pena/blob/main/1kc1.gif)
+
+<!-- <details>
   <summary>Click to expand...</summary>
   
   ## Text
@@ -92,7 +94,7 @@ Let's connect!
 
 > This is a quoted text
 
-I agree on that!
+I agree on that! -->
 <!--
 **diego-nieto-pena/diego-nieto-pena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
