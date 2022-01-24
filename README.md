@@ -4,6 +4,20 @@
 If debugging is the process of removing software bugs, then programming must be the process of putting them in.
 ― Edsger W. Dijkstra
 ```
+## ⚡ Technologies
+
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+## 📈 Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=diego-nieto-pena&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=diego-nieto-pena&theme=tokyonight" />
+</p>
 
 ### Let's connect!
 
